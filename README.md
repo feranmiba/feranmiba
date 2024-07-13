@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feranmiba
 - 👀 I’m interested in ...web2 and web3 development 
-- 🌱 I’m currently learning ... Backend (node js)
+- 🌱 I’m currently learning ... Mobile app development using react nativr 
 - 💞️ I’m looking to collaborate on ...Fullstack project
 - 📫 How to reach me ...on amiolademilade@gmail.com
 
