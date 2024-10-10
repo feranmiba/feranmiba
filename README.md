@@ -7,6 +7,8 @@
 
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=feranmiba&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feranmiba&theme=radical)
+
 <!---
 
 
