@@ -9,6 +9,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feranmiba&theme=radical)
 
+![Contributions](https://github.com/feranmiba/feranmiba/raw/main/github-contribution-grid-snake.svg)
+
+
 <!---
 
 
