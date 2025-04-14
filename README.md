@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amiola Demilade
 - 👀 I’m interested in ...web2 and web3 development 
-- 🌱 I’m currently learning ... Mobile app development using react native and flutter
+- 🌱 I’m currently learning ... Typexrcipt and npm.
 - 💞️ I’m looking to collaborate on ...Fullstack project and mobile development
 - 📫 How to reach me ...on amiolademilade@gmail.com
 
