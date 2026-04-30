@@ -1,21 +1,37 @@
-- 👋 Hi, I’m Amiola Demilade
-- 👀 I’m interested in ...web2 and web3 development 
-- 🌱 I’m currently learning ... Typexrcipt and npm.
-- 💞️ I’m looking to collaborate on ...Fullstack project and mobile development
-- 📫 How to reach me ...on amiolademilade@gmail.com
+<h1 align="center">Hi 👋, I'm Amiola Demilade</h1>
+<h3 align="center">Fullstack Developer | Web2 & Web3 Enthusiast</h3>
 
+---
 
-![](https://github-readme-stats.vercel.app/api?username=feranmiba&show_icons=true&theme=radical)
+### 👨‍💻 About Me
+- 🚀 Passionate about **Web2 & Web3 Development**
+- 🌱 Currently learning **TypeScript & npm ecosystem**
+- 🤝 Open to collaborating on **Fullstack & Mobile Projects**
+- 📫 Reach me at: **amiolademilade@gmail.com**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feranmiba&theme=radical)
+---
 
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feranmiba&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feranmiba&layout=compact&theme=radical" />
+</p>
 
+---
 
-<!---
+### ⚡ Fun Fact
+> I enjoy building things that live on the internet 🌍
 
+---
 
-feranmiba/feranmiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔗 Connect With Me
+<p>
+  <a href="mailto:amiolademilade@gmail.com">Email</a>
+</p>
