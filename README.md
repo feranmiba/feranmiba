@@ -68,8 +68,8 @@ A mobile beauty marketplace experience.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=feranmiba&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=feranmiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feranmiba&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feranmiba&theme=tokyonight" />
 </p>
 
 ---
@@ -79,6 +79,7 @@ A mobile beauty marketplace experience.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feranmiba&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🐍 Contributions
