@@ -21,41 +21,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 💌 Confess
-
-A platform for expressing feelings anonymously or openly through personalized digital experiences.
-
-💕 Asking someone out · 🎉 Birthdays · ❤️ Appreciation · 💍 Anniversaries · 🕵🏾 Anonymous messages
-
-**Built with:** Next.js · TypeScript · React · Node.js · PostgreSQL · Paystack · Framer Motion
-
-🌍 **[confess.com.ng](https://confess.com.ng/)**
-
----
-
-## 📦 Other Projects
-
-### Progressive Shapes
-
-An npm package for generating progressive geometric shapes.
-
-**TypeScript · JavaScript · npm**
-
-### TextEditor
-
-A developer-focused text editor npm package.
-
-**TypeScript · JavaScript · npm**
-
-### Beauty Bay
-
-A mobile beauty marketplace experience.
-
-**React Native · Expo · Zustand · React Query**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -82,22 +47,3 @@ A mobile beauty marketplace experience.
 
 ---
 
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/feranmiba/feranmiba/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-**TypeScript** · **Java** · **Data Structures & Algorithms** · **Solidity** · **System Design**
-
----
-
-<div align="center">
-
-### Build → Learn → Ship → Improve 🚀
-
-</div>
