@@ -1,277 +1,103 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-# 👋 Hey, I'm Amiola Demilade
+# 👋 Hi, I'm Amiola Demilade
 
-### Full-Stack Developer · Web3 Builder · Product Engineer
+### Full-Stack Developer · Web3 Builder · Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+products+that+live+on+the+internet+%F0%9F%8C%8D;Full-Stack+%7C+Mobile+%7C+Web3;Learning+TypeScript%2C+Java+%26+Data+Structures;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/feranmiba">
-  <img src="https://komarev.com/ghpvc/?username=feranmiba&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/feranmiba?tab=followers">
-  <img src="https://img.shields.io/github/followers/feranmiba?style=flat-square&label=Followers&color=58A6FF" alt="Followers"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web2+%7C+Web3+%7C+Mobile;Building+Confess+%F0%9F%9A%80;Learning+TypeScript+%26+Java" />
 
 </div>
 
 ---
 
-## 🧑🏾‍💻 About Me
+## 👨🏾‍💻 About Me
 
-I'm a **Full-Stack Developer** who enjoys building products from idea → implementation → deployment.
-
-I care about writing software that is not only functional, but also **maintainable, scalable and enjoyable to use**.
-
-
-# 🚀 Featured Project
-
-<div align="center">
-
-## 💌 Confess
-
-### A platform for expressing feelings — anonymously or openly.
-
-<a href="https://confess.com.ng/">
-  <img src="https://img.shields.io/badge/🌍%20Visit%20Confess-confess.com.ng-58A6FF?style=for-the-badge" />
-</a>
-
-</div>
-
-**Confess** is a product I'm building to make expressing feelings easier through personalized digital experiences.
-
-Users can create messages for:
-
-* 💕 Asking someone out
-* 🎉 Birthdays
-* ❤️ Appreciation
-* 💍 Anniversaries
-* 🥳 Milestones
-* 🕵🏾 Anonymous messages
-
-The platform combines **personalization, anonymous interactions and shareable digital experiences**.
-
-### Built With
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,postgres,supabase,git" />
-</p>
-
-**Other technologies:** Paystack · Framer Motion · REST APIs · HTML-to-Image
+* 🚀 Building and scaling **Confess**
+* 🌐 Full-Stack, Mobile & Web3 development
+* 🟦 Currently learning **TypeScript & Java**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 📦 Exploring the **npm ecosystem**
+* 🤝 Open to interesting collaborations
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Featured Project
 
-### Languages
+### 💌 Confess
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,solidity,html,css" />
-</p>
+A platform for expressing feelings anonymously or openly through personalized digital experiences.
 
-### Frontend
+💕 Asking someone out · 🎉 Birthdays · ❤️ Appreciation · 💍 Anniversaries · 🕵🏾 Anonymous messages
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer" />
-</p>
+**Built with:** Next.js · TypeScript · React · Node.js · PostgreSQL · Paystack · Framer Motion
 
-### Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
-
-### Web3
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,figma" />
-</p>
+🌍 **[confess.com.ng](https://confess.com.ng/)**
 
 ---
 
-# 📂 Other Things I've Built
+## 📦 Other Projects
 
-### 📦 Progressive Shapes
+### Progressive Shapes
 
 An npm package for generating progressive geometric shapes.
 
 **TypeScript · JavaScript · npm**
 
----
+### TextEditor
 
-### 🏠 Hostely
+A developer-focused text editor npm package.
 
-A hostel chore management application for assigning, tracking and completing household tasks.
+**TypeScript · JavaScript · npm**
 
-**React Native · Expo · Supabase**
+### Beauty Bay
 
----
+A mobile beauty marketplace experience.
 
-### 💄 Beauty Bay
-
-A mobile-first beauty marketplace experience with different user roles and personalized interfaces.
-
-**React Native · Expo · Zustand · React Query · Axios**
+**React Native · Expo · Zustand · React Query**
 
 ---
 
-### ⛓️ Web3 & Solidity
+## 🛠️ Tech Stack
 
-Currently exploring and building:
-
-* ERC20 escrow contracts
-* NFT contracts
-* On-chain SVG & metadata
-* Uniswap integrations
-* Ethereum tooling
-* Smart-contract/Web2 integrations
-* Solidity security patterns
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,solidity,react,nextjs,nodejs,express,mongodb,postgres,supabase,tailwind,expo,git,github,docker" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=feranmiba&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feranmiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=feranmiba&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feranmiba/feranmiba/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+**TypeScript** · **Java** · **Data Structures & Algorithms** · **Solidity** · **System Design**
+
+---
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=feranmiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feranmiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=feranmiba&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=feranmiba&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/feranmiba/feranmiba/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 🧠 Currently Learning
-
-<div align="center">
-
-|       Technology       | Focus                                     |
-| :--------------------: | :---------------------------------------- |
-|    🟦 **TypeScript**   | Advanced typing, architecture & ecosystem |
-|       ☕ **Java**       | Core Java & object-oriented programming   |
-| 🧠 **Data Structures** | Implementing structures from scratch      |
-|     ⛓️ **Solidity**    | Smart contracts & Ethereum                |
-|  🏗️ **System Design** | Scalable application architecture         |
-
-</div>
-
----
-
-# 🎯 What I'm Working On
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  🚀 Confess                                               │
-│     Building & scaling the product                       │
-│                                                          │
-│  🟦 TypeScript                                            │
-│     Going deeper into the language & ecosystem            │
-│                                                          │
-│  ☕ Java                                                  │
-│     Currently learning                                   │
-│                                                          │
-│  🧠 Data Structures                                       │
-│     Implementing structures from scratch                  │
-│                                                          │
-│  ⛓️ Web3                                                  │
-│     Solidity + Ethereum + smart contracts                │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🌱 Developer Journey
-
-```text
-Idea
-  ↓
-Design
-  ↓
-Build
-  ↓
-Debug
-  ↓
-Ship
-  ↓
-Learn
-  ↓
-Improve
-  ↺
-```
-
-I believe the best way to learn engineering is to **build real things, break them, understand why they broke, and build them better.**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:amiolademilade@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/feranmiba">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💭 Build things. Understand things. Ship things.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" />
+### Build → Learn → Ship → Improve 🚀
 
 </div>
