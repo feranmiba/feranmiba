@@ -2,24 +2,11 @@
 
 # 👋 Hi, I'm Amiola Demilade
 
-### Full-Stack Developer · Web3 Builder · Open Source Enthusiast
+### Just chilling✌️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web2+%7C+Web3+%7C+Mobile;Building+Confess+%F0%9F%9A%80;Learning+TypeScript+%26+Java" />
 
 </div>
-
----
-
-## 👨🏾‍💻 About Me
-
-* 🚀 Building and scaling **Confess**
-* 🌐 Full-Stack, Mobile & Web3 development
-* 🟦 Currently learning **TypeScript & Java**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 📦 Exploring the **npm ecosystem**
-* 🤝 Open to interesting collaborations
-
----
 
 
 ## 🛠️ Tech Stack
